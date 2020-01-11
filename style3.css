@@ -1,3 +1,16 @@
 body{
-	background-color:lightblue;
+	background-color:#43467f;
+}
+p{
+	color:#50B83C;
+	text-align:center;
+}
+h1{
+	text-align:center;	
+	color:white;
+}
+div
+{	
+	background-color:white;
+	width:50%;
 }
