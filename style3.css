@@ -3,14 +3,25 @@ body{
 }
 p{
 	color:#50B83C;
-	text-align:center;
 }
 h1{
 	text-align:center;	
 	color:white;
+	font-family: "Helvetica", sans-serif;
+	text-transform:uppercase;
 }
 div
-{	
+{	margin:auto;
 	background-color:white;
+	width:80%;
+	padding:2rem 2rem 2rem 2rem;
+}
+img
+{
 	width:50%;
+}
+a{
+	background-color:white;
+	padding:1rem;
+	border:blue 2px dotted;
 }
